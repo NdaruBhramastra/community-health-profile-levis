@@ -1,7 +1,7 @@
 # Community Health Profile Dashboard - Levis, Quebec
 
 ## Project Overview
-This project presents a **Community Health Profile Dashboard** for **Lévis, Quebec**, developed using **ArcGIS Pro** and **ArcGIS Experience Builder**. The dashboard provides insights into demographics, built and natural environments, health services, and community strengths and gaps in access to care. This analysis is framed using **Critical Health Geography and Critical GIS** theories, ensuring ethical considerations and human-centered design principles. The link to the dashboard can be found under the description section on this GitHub repository.
+This project presents a **Community Health Profile Dashboard** for **Lévis, Quebec**, developed using **ArcGIS Pro** and **ArcGIS Experience Builder**. The dashboard provides insights into demographics, built and natural environments, health services, and community strengths and gaps in access to care. The link to the dashboard can be found under the description section on this GitHub repository.
 
 ## Contents
 - **Geographic Scales**
